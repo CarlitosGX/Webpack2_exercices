@@ -1,3 +1,3 @@
 # Webpack2_exercices
 
-Exercices related to Webpack 2
+Exercices related to Webpack 2.
